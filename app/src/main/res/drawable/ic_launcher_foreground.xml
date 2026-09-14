@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Soft background glow halo -->
+    <path
+        android:fillColor="#33FFFFFF"
+        android:pathData="M54,18 C54,40 40,54 18,54 C40,54 54,68 54,90 C54,68 68,54 90,54 C68,54 54,40 54,18 Z" />
+
+    <!-- Main 4-pointed sparkle star with center circle cutout -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:fillType="evenOdd"
+        android:pathData="M54,23 C54,42 42,54 23,54 C42,54 54,66 54,85 C54,66 66,54 85,54 C66,54 54,42 54,23 Z M54,46 A8,8 0 1,0 54,62 A8,8 0 1,0 54,46 Z" />
+
+    <!-- Center inner ring accent -->
+    <path
+        android:fillColor="#007BB9"
+        android:pathData="M54,49 A5,5 0 1,0 54,59 A5,5 0 1,0 54,49 Z" />
+
+    <!-- Secondary top-right sparkle -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M74,27 C74,32 70,34 67,34 C70,34 74,36 74,41 C74,36 78,34 81,34 C78,34 74,32 74,27 Z" />
+</vector>

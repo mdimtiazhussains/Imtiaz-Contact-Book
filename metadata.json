@@ -1,0 +1,6 @@
+{
+  "name": "Imtiaz Directory",
+  "description": "Clean contact directory with dynamic Google Sheets sync, Kurnool and Abu Dhabi cities, and favorite management",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
